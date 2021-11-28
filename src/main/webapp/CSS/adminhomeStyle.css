@@ -1,0 +1,248 @@
+*{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+body{
+background-color: rgb(0, 0, 0);
+padding: 0px;
+margin: 0px;
+
+
+}
+.h1{
+
+    font-size: 70px;
+    margin-top: -60px;
+    margin-left: 140px;
+    margin-bottom: -76px;
+}
+.h2{
+    float: left;
+    color: rgb(0, 0, 0);
+    padding: 5px 23px;
+    text-decoration: none;
+    font-size :25px;
+    margin-top: -9px;
+    margin-left: 785px;
+    margin-bottom: -76px;
+}
+.h3{
+
+    float: left;
+    color: rgb(0, 0, 0);
+    padding: 5px 23px;
+    text-decoration: none;
+    font-size :25px;
+    margin-top: -10px;
+    margin-left: 1050px;
+    margin-bottom: -76px;
+}
+.h4{
+
+    float: left;
+    color: rgb(0, 0, 0);
+    padding: 4px 23px;
+    text-decoration: none;
+    font-size :25px;
+    margin-top: 20px;
+    margin-left: 788px;
+    margin-bottom: -76px;
+}
+.h{
+    background-color:yellow;
+    margin:0px;
+    padding: 95px;
+}
+.img1{
+
+    height: 160px;
+    width: 157px;
+    border-radius: 104px;
+    margin-top: -73px;
+    margin-left: -69px;
+    margin-bottom: -70px;
+}
+.img2{
+
+ height: 63px;
+    width: 89px;
+    border-radius: 62px;
+    margin-top: 0px;
+    margin-left: 712px;
+    margin-bottom: -63px;
+}
+.img3{
+
+    height: 63px;
+       width: 89px;
+       border-radius: 70px;
+       margin-top: 0px;
+       margin-left: 980px;
+       margin-bottom: -50px;
+   }
+   .vertical{
+    border-left: 6px solid yellow;
+    height: 430px;
+    position: absolute;
+    margin-left: 566px;
+    left: 50px;
+   }
+   .h5{
+    color:yellow;
+    padding: 5px 23px;
+    text-decoration: none;
+    font-size :30px;
+    margin-top: 0px;
+    margin-left: 818px;
+    margin-bottom: -76px;
+   }
+   .h6{
+    color:yellow;
+    padding: 5px 23px;
+    text-decoration: none;
+    font-size :30px;
+    margin-top: 30px;
+    margin-left: 264px;
+    margin-bottom: -70px;
+   }
+   .h7 {
+    color: yellow;
+    padding: 5px 23px;
+    text-decoration: none;
+    font-size: 21px;
+    margin-top: 89px;
+    margin-left: 87px;
+    margin-bottom: -144px;
+}
+   .h8 {
+    color: yellow;
+    padding: 5px 23px;
+    text-decoration: none;
+    font-size: 21px;
+    margin-top: -7px;
+    margin-left: 720px;
+    margin-bottom: -25px;
+}
+.img4 {
+    height: 62px;
+    width: 63px;
+    border-radius: 70px;
+    margin-top: 100px;
+    margin-left: 39px;
+    margin-bottom: -50px;
+}
+.img5 {
+    height: 62px;
+    width: 63px;
+    border-radius: 45px;
+    margin-top: -25px;
+    margin-left: 662px;
+    margin-bottom: 25px;
+}
+.h9 {
+    color: yellow;
+    padding: 5px 23px;
+    text-decoration: none;
+    font-size: 21px;
+    margin-top: 16px;
+    margin-left: 93px;
+    margin-bottom: -10px;
+}
+.h10 {
+    color: yellow;
+    padding: 5px 23px;
+    text-decoration: none;
+    font-size: 21px;
+    margin-top: -58px;
+    margin-left: 725px;
+    margin-bottom: 2px;
+}
+.img6 {
+    height: 62px;
+    width: 63px;
+    border-radius: 45px;
+    margin-top: -32px;
+    margin-left: 39px;
+    margin-bottom: 0px;
+}
+.img7 {
+    height: 62px;
+    width: 63px;
+    border-radius: 45px;
+    margin-top: -44px;
+    margin-left: 665px;
+    margin-bottom: 5px;
+}
+.h11 {
+    color: yellow;
+    padding: 5px 23px;
+    text-decoration: none;
+    font-size: 21px;
+    margin-top: 24px;
+    margin-left: 100px;
+    margin-bottom: 9px;
+}
+.h12 {
+    color: yellow;
+    padding: 5px 23px;
+    text-decoration: none;
+    font-size: 21px;
+    margin-top: -61px;
+    margin-left: 720px;
+    margin-bottom: 40px;
+}
+.img8 {
+    height: 62px;
+    width: 63px;
+    border-radius: 45px;
+    margin-top: -55px;
+    margin-left: 39px;
+    margin-bottom: 8px;
+}
+.img9 {
+    height: 62px;
+    width: 63px;
+    border-radius: 45px;
+    margin-top: -93px;
+    margin-left: 662px;
+    margin-bottom: 48px;
+}
+
+
+
+.img10 {
+    height: 62px;
+    width: 63px;
+    border-radius: 45px;
+    margin-top: -55px;
+    margin-left: 39px;
+    margin-bottom: 8px;
+}
+.img11 {
+    height: 62px;
+    width: 63px;
+    border-radius: 45px;
+    margin-top: -93px;
+    margin-left: 662px;
+    margin-bottom: 48px;
+}
+
+.h13 {
+    color: yellow;
+    padding: 5px 23px;
+    text-decoration: none;
+    font-size: 21px;
+    margin-top: -5px;
+    margin-left: 100px;
+    margin-bottom: 9px;
+}
+.h14 {
+    color: yellow;
+    padding: 5px 23px;
+    text-decoration: none;
+    font-size: 21px;
+    margin-top: -61px;
+    margin-left: 720px;
+    margin-bottom: 40px;
+}
